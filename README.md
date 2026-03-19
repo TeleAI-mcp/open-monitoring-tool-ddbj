@@ -1,2 +1,3 @@
-# open-monitoring-tool-ddbj
-Automated issue comment bot repository
+# Open Monitoring Tool Ddbj
+
+Automated issue comment bot repository.
